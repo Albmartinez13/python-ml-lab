@@ -1,0 +1,8 @@
+#Core Scientific Stack
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+
+# Add more packages here as you install them (e.g., requests, pytorch)
